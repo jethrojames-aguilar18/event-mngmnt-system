@@ -15,7 +15,23 @@ This Event Management System provides features that allow event organizers to ma
 
 ---
 
-## How To Use
-1. Sign up for an account. The system asks for personal details like your name, age, etc. If with an account, log-in instead.
-2. After logging-in, you will see the landing page at the right with menus at the left. Navigate as you wish.
-3. About us - shows info about the app and about the creators
+## Technology Stack
+To  implement this system, we used a combination of these funcionalities to make the program work:
+1. Java Swing - Using Graphical User Interface (GUI), we were able to create both th front-end and back-end of this system using Java Programming Language
+2. PhpMyAdmin - Our program database which helps us store and retrieve personal and event informations provided by the user.
+3. NetBeans - We used this IDE (Integrated Development Environment) to create our system. We used Java with ANT as our tool and used Java Sdk 21 as our java kit.
+
+---
+
+## Documentation
+
+### Data Schema [See Here](https://drive.google.com/file/d/1xkhfyjOwzeD-yZJWoSjOESlksb6UCE5X/view?usp=sharing)
+### Entity-Relationship Diagram (ERD) [See Here](https://drive.google.com/file/d/1i9ZnTKAvhpccVZgbOflu_l36d7jeLKQv/view?usp=sharing)
+
+---
+
+# Authors
+* Aguilar, Jethro James S.
+* Parco, Justine Zedric T.
+* Santos, Gabriel Ian M.
+* Verana, Brixter
