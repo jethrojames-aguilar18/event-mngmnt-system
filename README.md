@@ -17,7 +17,7 @@ This Event Management System provides features that allow event organizers to ma
 
 ## Technology Stack
 To  implement this system, we used a combination of these funcionalities to make the program work:
-1. Java Swing - Using Graphical User Interface (GUI), we were able to create both th front-end and back-end of this system using Java Programming Language
+1. Java Swing - Using Graphical User Interface (GUI), we were able to create both the front-end and back-end of this system using Java Programming Language
 2. PhpMyAdmin - Our program database which helps us store and retrieve personal and event informations provided by the user.
 3. NetBeans - We used this IDE (Integrated Development Environment) to create our system. We used Java with ANT as our tool and used Java Sdk 21 as our java kit.
 
