@@ -1,3 +1,3 @@
 # Planorama
 
-![Alt Text](logo.png))
+![Alt Text](banner-logo.png))
