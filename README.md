@@ -31,6 +31,8 @@ To  implement this system, we used a combination of these funcionalities to make
 ---
 
 # Authors
+This project was developed by the following students from the College of Computer and Information Sciences at the Polytechnic University of the Philippines, Sta. Mesa, Manila, as part of the requirements for COMP 009 – Object-Oriented Programming (Java) and COMP 010 – Information Management courses.
+
 * Aguilar, Jethro James S.
 * Parco, Justine Zedric T.
 * Santos, Gabriel Ian M.
